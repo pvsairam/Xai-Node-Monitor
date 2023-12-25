@@ -2,8 +2,8 @@
 
 ##########################################################################
 ## FOLLOW ME ON TWITTER IF YOU FIND THIS USEFUL
-## @ShineCryptic
-## https://twitter.com/ShineCryptic
+## @xtestnet
+## https://twitter.com/xtestnet
 ##########################################################################
 
 ## UPDATE TELEGRAM
@@ -161,6 +161,6 @@ done
 
 ##########################################################################
 ## FOLLOW ME ON TWITTER IF YOU FIND THIS USEFUL
-## @ShineCryptic
-## https://twitter.com/ShineCryptic
+## @xtestnet
+## https://twitter.com/xtestnet
 ##########################################################################
