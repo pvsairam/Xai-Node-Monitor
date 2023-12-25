@@ -1,4 +1,4 @@
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40ShineCryptic)](https://twitter.com/ShineCryptic)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40xtestnet)](https://twitter.com/xtestnet)
 
 # How to Get Telegram Notifications?
 
@@ -81,10 +81,10 @@ chmod +x xai_monitor.sh
 
 ```
 
-You can review script file on github ([Github](https://github.com/smahe21/Xai-Node-Monitor))
+You can review script file on github ([Github](https://github.com/pvsairam/Xai-Node-Monitor))
 
 ```
-https://github.com/smahe21/Xai-Node-Monitor
+https://github.com/pvsairam/Xai-Node-Monitor
 ```
 
 ### Test Telegram
@@ -120,4 +120,4 @@ Enter Disable
 
 ## Follow me
 
-If you find this guide helpful, consider following me on Twitter for more tips and updates: ([ShineCryptic](https://twitter.com/ShineCryptic))
+If you find this guide helpful, consider following me on Twitter for more tips and updates: ([xtestnet](https://twitter.com/xtestnet))
